@@ -13,21 +13,21 @@ This project is the backend for an e-commerce site. It uses express api and Mysq
 - [Questions](#questions)
 
 ## Installation
-Clone repository
-Add database name, mySQL username and mySQL to a .env in correct dir
-source database schema using mysql
-run node seeds/index.js
-npm install
-npm start
-run api calls in insomnia or postman
+1. Clone repository
+2. Add database name, mySQL username and mySQL to a .env in correct dir
+3. source database schema using mysql
+4. run node seeds/index.js
+5. npm install
+6. npm start
+7. run api calls in insomnia or postman
 
 ## Usage
 By running a get, post put or delete a user can do the following: 
 
-Get - see current categories, products and tags
-post create categories, products and tags
-put - update categories, products and tags
-delete - delete categories, products and tags
+1. Get - see current categories, products and tags
+2. post create categories, products and tags
+3. put - update categories, products and tags
+4. delete - delete categories, products and tags
 
 ## demo 
 
